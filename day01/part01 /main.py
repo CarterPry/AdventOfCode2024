@@ -1,4 +1,5 @@
 #Day01
+#Part01
 
 
 leftSide = []
@@ -18,5 +19,5 @@ with open('input.txt', 'r') as file:
     for i in range(len(leftSide)):
         total += abs(leftSide[i] - rightSide[i])
             
-    print("Total Distance=", total) 
+    print("Total Distance =", total) 
         
