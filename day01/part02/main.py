@@ -1,5 +1,5 @@
 #Day01
-#Part01
+#Part02
 
 
 leftSide = []
